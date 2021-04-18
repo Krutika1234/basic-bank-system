@@ -1,0 +1,1 @@
+var ndate = new Date() ;
